@@ -10,16 +10,7 @@ namespace TP_Ile_Deserte
     {
         static void Main(string[] args)
         {
-            Enfant e = new Enfant();
-            Console.WriteLine(e);
-            Travailleur travailleur = new Travailleur();
-            Console.WriteLine(travailleur);
-            TravailleurFaineant f = new TravailleurFaineant();
-            Console.WriteLine(f);
-            Chat chat = new Chat();
-            Console.WriteLine(chat);
             
-
         }
     }
 }
