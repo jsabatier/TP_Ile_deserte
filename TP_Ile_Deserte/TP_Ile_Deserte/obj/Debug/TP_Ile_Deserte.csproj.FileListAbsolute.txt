@@ -1,0 +1,7 @@
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/bin/Debug/TP_Ile_Deserte.exe.config
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/bin/Debug/TP_Ile_Deserte.exe
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/bin/Debug/TP_Ile_Deserte.pdb
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/obj/Debug/TP_Ile_Deserte.csproj.AssemblyReference.cache
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/obj/Debug/TP_Ile_Deserte.csproj.CoreCompileInputs.cache
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/obj/Debug/TP_Ile_Deserte.exe
+/Users/paulinebragas/Downloads/TP_Ile_deserte-main/TP_Ile_deserte-main (1)/TP_Ile_deserte-main/TP_Ile_deserte-main/TP_Ile_Deserte/TP_Ile_Deserte/obj/Debug/TP_Ile_Deserte.pdb
